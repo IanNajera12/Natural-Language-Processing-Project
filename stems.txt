@@ -1,0 +1,67 @@
+run runs running ran runner runners -> run
+walk walks walking walked walker walkers -> walk
+jump jumps jumping jumped jumper jumpers -> jump
+talk talks talking talked talker talkers -> talk
+play plays playing played player players -> play
+work works working worked worker workers -> work
+study studies studying studied studier -> study
+eat eats eating ate eater eaters -> eat
+drive drives driving drove driver drivers -> drive
+swim swims swimming swam swimmer swimmers -> swim
+read reads reading reader readers -> read
+write writes writing wrote writer writers -> write
+speak speaks speaking spoke speaker speakers -> speak
+sing sings singing sang singer singers -> sing
+dance dances dancing danced dancer dancers -> dance
+laugh laughs laughing laughed laughter -> laugh
+cry cries crying cried crier -> cry
+sleep sleeps sleeping slept sleeper sleepers -> sleep
+teach teaches teaching taught teacher teachers -> teach
+learn learns learning learned learner learners -> learn
+think thinks thinking thought thinker thinkers -> think
+believe believes believing believed believer believers -> believe
+feel feels feeling felt -> feel
+see sees seeing saw seen -> see
+hear hears hearing heard -> hear
+create creates creating created creator creators -> create
+connect connects connecting connected connection connections -> connect
+compute computes computing computed computer computers computation -> compute
+program programs programming programmed programmer programmers -> program
+code codes coding coded coder coders -> code
+develop develops developing developed developer developers development -> develop
+implement implements implementing implemented implementation -> implement
+analyze analyzes analyzing analyzed analyzer analysis -> analyze
+process processes processing processed processor processors -> process
+classify classifies classifying classified classification -> classify
+predict predicts predicting predicted prediction predictions -> predict
+train trains training trained trainer trainers -> train
+test tests testing tested tester testers -> test
+evaluate evaluates evaluating evaluated evaluation -> evaluate
+optimize optimizes optimizing optimized optimization -> optimize
+search searches searching searched searcher searchers -> search
+sort sorts sorting sorted sorter sorters -> sort
+filter filters filtering filtered -> filter
+compile compiles compiling compiled compiler compilers -> compile
+debug debugs debugging debugged debugger debuggers -> debug
+encrypt encrypts encrypting encrypted encryption -> encrypt
+decrypt decrypts decrypting decrypted decryption -> decrypt
+calculate calculates calculating calculated calculation calculations -> calculate
+convert converts converting converted converter converters conversion -> convert
+format formats formatting formatted formatter formatters -> format
+initialize initializes initializing initialized initialization -> initialize
+validate validates validating validated validation -> validate
+verify verifies verifying verified verification -> verify
+iterate iterates iterating iterated iteration iterations -> iterate
+increment increments incrementing incremented -> increment
+decrement decrements decrementing decremented -> decrement
+append appends appending appended -> append
+remove removes removing removed removal -> remove
+insert inserts inserting inserted insertion -> insert
+delete deletes deleting deleted deletion -> delete
+update updates updating updated -> update
+select selects selecting selected selection -> select
+compare compares comparing compared comparison comparisons -> compare
+match matches matching matched -> match
+merge merges merging merged merger -> merge
+split splits splitting split -> split
+join joins joining joined -> join

@@ -1,0 +1,67 @@
+sprint, dash, jog, race, hurry, run, rush, scurry, gallop, bolt, flee
+stroll, stride, saunter, trek, walk, hike, wander, amble, march, roam, meander
+leap, hop, bound, vault, skip, spring, jump, pounce, dive, bounce, hurdle
+speak, chat, converse, discuss, talk, communicate, utter, verbalize, express, babble, remark
+engage, participate, frolic, perform, act, compete, amuse, entertain, play, sport, jest
+labor, toil, strive, hustle, grind, exert, endeavor, function, work, operate, serve
+study, learn, examine, analyze, research, review, investigate, scrutinize, peruse, absorb, observe
+consume, devour, munch, nibble, eat, ingest, dine, feast, snack, chew, swallow
+steer, operate, control, drive, maneuver, navigate, pilot, propel, guide, power, direct
+dive, float, paddle, stroke, swim, wade, glide, propel, submerge, plunge, drift
+read, peruse, scan, skim, decipher, interpret, study, browse, absorb, comprehend, review
+write, compose, draft, record, scribble, jot, transcribe, script, note, inscribe, pen
+express, articulate, declare, announce, speak, utter, talk, converse, communicate, vocalize, address
+chant, hum, croon, carol, warble, serenade, sing, vocalize, trill, yodel, belt
+sway, twirl, waltz, boogie, groove, shimmy, jive, dance, salsa, tango, shuffle
+chuckle, giggle, guffaw, snicker, cackle, chortle, snort, howl, laugh, titter, roar
+weep, sob, wail, bawl, cry, whimper, lament, moan, sniffle, teardrop, mourn
+slumber, nap, doze, snooze, rest, hibernate, drift, nod, sleep, repose, drowse
+educate, instruct, train, tutor, mentor, guide, coach, enlighten, demonstrate, teach, impart
+learn, study, absorb, grasp, understand, acquire, comprehend, master, explore, familiarize, educate
+ponder, reflect, contemplate, think, consider, deliberate, reason, analyze, muse, ruminate, speculate
+trust, accept, embrace, follow, adhere, assume, believe, expect, rely, regard, suppose
+sense, perceive, experience, undergo, touch, detect, empathize, react, suffer, feel, acknowledge
+observe, notice, glimpse, perceive, see, view, behold, recognize, witness, spot, detect
+listen, detect, perceive, eavesdrop, hear, tune in, pick up, comprehend, register, heed, note
+generate, build, construct, develop, create, produce, invent, design, compose, craft, fabricate
+connect, link, attach, join, associate, bond, integrate, merge, couple, unite, relate
+compute, calculate, process, evaluate, determine, estimate, analyze, cipher, quantify, assess, measure
+program, code, script, develop, engineer, automate, configure, compile, debug, execute, implement
+code, program, encrypt, script, develop, encode, write, debug, configure, generate, process
+develop, create, build, construct, grow, innovate, refine, expand, enhance, establish, formulate
+implement, execute, apply, enforce, integrate, develop, activate, carry out, install, utilize, establish
+analyze, examine, assess, evaluate, interpret, investigate, scrutinize, dissect, process, review, measure
+process, handle, manage, execute, operate, manipulate, analyze, compute, filter, interpret, transform
+classify, categorize, sort, organize, arrange, group, label, rank, distinguish, separate, allocate
+predict, forecast, anticipate, project, estimate, foretell, prophesy, speculate, envision, foresee, calculate
+train, instruct, teach, coach, tutor, educate, guide, mentor, prepare, condition, develop
+test, assess, evaluate, examine, verify, measure, validate, check, audit, trial, experiment
+evaluate, assess, measure, determine, examine, analyze, judge, review, interpret, rate, gauge
+optimize, enhance, refine, improve, adjust, fine-tune, boost, maximize, streamline, perfect, upgrade
+search, look, seek, explore, scan, investigate, browse, hunt, track, research, probe
+sort, arrange, categorize, classify, organize, rank, order, sequence, allocate, divide, distribute
+filter, refine, sift, screen, strain, purify, separate, extract, cleanse, process, distill
+compile, assemble, collect, aggregate, combine, synthesize, organize, gather, integrate, construct, code
+debug, troubleshoot, fix, correct, diagnose, resolve, repair, refine, analyze, test, optimize
+encrypt, encode, cipher, scramble, conceal, secure, obfuscate, mask, disguise
+decrypt, decode, decipher, unscramble, translate, crack, reveal, interpret, unveil, break, analyze
+calculate, compute, determine, estimate, evaluate, quantify, measure, figure out, assess, solve, process
+convert, transform, change, modify, switch, adapt, shift, adjust, translate, transmute, reformat
+format, structure, arrange, design, configure, organize, align, edit, modify, adapt, standardize
+initialize, start, activate, set up, launch, configure, establish, trigger, load, prepare, begin
+validate, confirm, verify, authenticate, check, approve, certify, endorse, substantiate, uphold, corroborate
+verify, confirm, authenticate, validate, check, prove, ascertain, substantiate, audit, examine, affirm
+iterate, repeat, revise, refine, redo, cycle, adjust, modify, rework, develop, enhance
+increment, increase, enhance, boost, raise, step up, advance, elevate, expand, grow, amplify
+decrement, decrease, reduce, lower, diminish, drop, cut, decline, lessen, shrink, subtract
+append, add, attach, insert, include, supplement, affix, extend, integrate, connect, expand
+remove, delete, eliminate, discard, erase, detach, withdraw, extract, expunge, clear, omit
+insert, add, embed, include, input, place, introduce, inject, integrate, implant, incorporate
+delete, erase, remove, eliminate, obliterate, expunge, wipe, discard, clear, annul, abolish
+update, refresh, revise, modify, enhance, upgrade, edit, renew, improve, correct, adjust
+select, choose, pick, opt, prefer, decide, designate, determine, sort, filter, identify
+compare, contrast, evaluate, match, analyze, differentiate, examine, assess, weigh, correlate, distinguish
+match, pair, align, fit, connect, coordinate, correspond, equate, suit, synchronize, conform
+merge, combine, unite, integrate, blend, join, fuse, amalgamate, coalesce, consolidate, incorporate
+split, divide, separate, break, sever, fracture, disjoin, detach, disperse, partition, segment
+join, unite, connect, merge, link, fuse, couple, integrate, associate, bond, attach
